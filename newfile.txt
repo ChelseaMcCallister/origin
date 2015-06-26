@@ -1,3 +1,7 @@
+First line should be short be general helpful as to what was done
+
+Start longer decription here
+
 this is the new file in the new repository
 
 new file stuff yay
