@@ -1,5 +1,8 @@
+
 Lets see if this actually works
 
 Wow it opened to file from a different branch
 
 Weird it didn't have a conflict this time and I havnt committed it yet
+
+I had to remerge things after I editited it
